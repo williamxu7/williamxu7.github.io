@@ -3,8 +3,6 @@ layout: post
 title: The Big Picture of Supervised and Unsupervised Learning
 ---
 
-## <span style="color:#0abab5">The Big Picture of Supervised and Unsupervised Learning </span>
-
 When I first heard about machine learning, I immediately associated with robots and computers. I imagined that computers with some advanced programming that can learn from human experience and predict future events. This sounds like a cool futuristic thought. In fact, machine learning has been around for decades. What is machine learning really? “Machine Learning is the science (and art) of programming computers so they can learn from data” (Géron, 2). 
 
 Why do we need Machine Learning? Many problems can’t simply be solved by a mathematical mind, Excel spreadsheets and scientific calculators. Here comes machine learning, with the right approach, it can deal with a large amount of data, adapt to new data and find an efficient and effective solution. Machine learning can be applied in a wide variety of industries for different purposes. It can be applied in cancer diagnosis to predict whether a patient has such disease or not, it can be used in imagine recognition for face detection, and it can also help predict housing prices in the real estate industry. Here is a link to a website for [top 10 real-life examples of machine learning](https://bigdata-madesimple.com/top-10-real-life-examples-of-machine-learning/).
