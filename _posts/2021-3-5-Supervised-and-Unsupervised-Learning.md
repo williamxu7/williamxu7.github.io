@@ -21,7 +21,7 @@ Just like the name itself, we can imagine supervised learning as an algorithm le
 
 *Figure 1. Supervised learning illustration (adapted from DSCI 571: Supervised Machine Learning I notes)*
 
-For unsupervised learning, we can imagine that a system is trying to learn without the supervision of a “professor”. The training data would have observations X but without labels (Figure 2). For example, we have observations X (animal emojis) and we wish to get insights on the underlying structure of the data. We would feed the data into a machine learning algorithm and a machine learning model, next the output provides meaningful grouping of the data, such as a group of cat emojis, a group of dog emojis, etc.
+For unsupervised learning, we can imagine that a system is trying to learn without the supervision of a “professor”. The training data would have observations X but without labels (Figure 2). For example, we have observations X (animal emojis) and we wish to get insights on the underlying structure of the data. We would feed the data into a machine learning algorithm and a machine learning model, next the output provides meaningful groupings of the data, such as a group of cat emojis, a group of dog emojis, etc.
 
 <img src="../images/unsup-learning.png" alt="Drawing" style="width: 500px;"/>
 
@@ -58,7 +58,7 @@ Unsupervised learning has its drawbacks. The accuracy of the unsupervised learni
 
 <span style="color:#0abab5">**Conclusion**</span>
 
-I was a former financial analyst with no data science background. The data science concepts, supervised learning and unsupervised learning can seem tricky when people saw for the first time (including me). However, I have much enjoyed the journey since I started learning data science. I have found that concepts like supervised learning and unsupervised learning are not difficult as it may seem in the beginning.  
+I was a former financial analyst with no data science background. The data science concepts, supervised learning and unsupervised learning can seem tricky when people saw for the first time (including me). However, I have much enjoyed the journey since I started learning data science. I have found that concepts like supervised learning and unsupervised learning are not as difficult as they may seem in the beginning.  
 
 If you are looking to start exploring the data science area, I hope this blog would serve as a stepping stone for you to dive in further. By understanding the big picture of supervised and unsupervised learning and their uses in different industries, I am confident that it will make your future data science journey smoother and more pleasant.
 
