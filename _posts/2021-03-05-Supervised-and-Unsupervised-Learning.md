@@ -17,13 +17,13 @@ Before going into supervised and unsupervised learning, it is important to have 
 
 Just like the name itself, we can imagine supervised learning as an algorithm learning process under the supervision of a “professor”. The data with labels we wish to train is fed into that algorithm (Figure 1). For example, we have training data, which includes observations X (animal emojis) and y (labels for these emojis). We also have some unseen test data with X (emojis) and unknow y (labels). Then the training data with labels is fed into a learning algorithm and trained by a machine learning model function. That machine learning model would be able to predict the labels of these new examples.
 
-<img src="../images/sup-learning.png" alt="Drawing" style="width: 500px;"/>
+<img src="/assets/sup-learning.png" alt="Drawing" style="width: 500px;"/>
 
 *Figure 1. Supervised learning illustration (adapted from DSCI 571: Supervised Machine Learning I notes)*
 
 For unsupervised learning, we can imagine that a system is trying to learn without the supervision of a “professor”. The training data would have observations X but without labels (Figure 2). For example, we have observations X (animal emojis) and we wish to get insights on the underlying structure of the data. We would feed the data into a machine learning algorithm and a machine learning model, next the output provides meaningful groupings of the data, such as a group of cat emojis, a group of dog emojis, etc.
 
-<img src="../images/unsup-learning.png" alt="Drawing" style="width: 500px;"/>
+<img src="/assets/unsup-learning.png" alt="Drawing" style="width: 500px;"/>
 
 *Figure 2. Unsupervised learning illustration (adapted from DSCI 563: Unsupervised Machine Learning notes)*
 <br>
@@ -50,7 +50,7 @@ Unsupervised learning has its drawbacks. The accuracy of the unsupervised learni
 *Customer segmentation in unsupervised learning*
 <br>Customer segmentation is a procedure of grouping people together based on demographics or behavioural patterns. It is often used in the retail and marketing industries. When we only have income and age attributes in customer data, by implementing the unsupervised learning algorithm, we can output groupings of the entire data (Figure 3). For example, we could label the low-income younger group as students, and low-income older group as retirees. By segmenting customers, businesses are able to tailor services to various groups and design strategies for increased profitability and sustainable competitive advantages.
 
-<img src="../images/customer_seg.jpg" alt="Drawing" style="width: 500px;"/>
+<img src="/assets/customer_seg.jpg" alt="Drawing" style="width: 500px;"/>
 
 *Figure 3. Customer segmentation (adapted from MyCustomer)*
 <br>
